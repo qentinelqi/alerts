@@ -20,3 +20,11 @@ Example with only the text.
   "text": "Finland is on vacation. Let's close all bugs delete Azure DevOps."
 }
 ```
+
+To disable the alerts just leave the values as empty strings. 
+```
+{
+  "title": "",
+  "text": ""
+}
+```
