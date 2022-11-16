@@ -1,7 +1,7 @@
 # alerts
 A repo to display Copado Robotic Testing alerts to the public.
 
-- The `alerts.json` file is used to diplay the banner alers on the Copado Robotic Testing UI.
+- The `alerts.json` file is used to display the banner alerts on the Copado Robotic Testing UI.
 - The `title` is optional. If you don't wish to use it, leave the key in with the value as empty text.
 - The `text` is required.
 
